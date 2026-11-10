@@ -1,0 +1,6 @@
+{
+  "name": "CarePulse - Hospital Management System",
+  "description": "Comprehensive healthcare and hospital management platform with patient registration, doctor appointments, electronic medical records, lab reports, and itemized billing for staff and patients.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
